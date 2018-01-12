@@ -1,2 +1,2 @@
 FROM yujmo/sshd:latest
-RUN yum install wget -y && wget https://github.com/geeeeeeeeek/electronic-wechat/releases/download/V2.0/linux-x64.tar.gz
+RUN yum install wget -y && wget https://github.com/jgm/pandoc/releases/download/2.1/pandoc-2.1-windows.msi
